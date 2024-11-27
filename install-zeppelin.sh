@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Переменные
-SPARK_VERSION="3.4.1"
+SPARK_VERSION="3.5.3"
 HADOOP_VERSION="3"
 SPARK_ARCHIVE="spark-${SPARK_VERSION}-bin-hadoop${HADOOP_VERSION}.tgz"
 SPARK_URL="https://downloads.apache.org/spark/spark-${SPARK_VERSION}/${SPARK_ARCHIVE}"
